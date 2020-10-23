@@ -1,4 +1,4 @@
-# create-webserver-in-your-own-custom-subnet-terraform
+# create_webserver_in_custom_vpc_terraform
 This repo shows sample creation of a webserver in a custom subnet in your own custom VPC
 
 **Note:** Before creating the following resources in terraform, login to your EC2 console in your AWS account and create an EC2 keypair, it would be required un step 9 below, when you're creating the EC2 instance.
