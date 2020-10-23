@@ -5,6 +5,8 @@ This repo shows sample creation of a webserver in a custom subnet in your own cu
 
 The terraform code creates the following resources in your AWS account
 
+0.Configure the AWS Provider
+
 1. Create VPC
 
 2. Create Internet Gateway
